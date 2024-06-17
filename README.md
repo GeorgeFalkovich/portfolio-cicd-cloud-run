@@ -17,3 +17,7 @@ This project demonstrates a simple yet robust CI/CD pipeline for deploying a sta
 - **Containerized Deployment:** Ensures portability and scalability while potentially contributing to cost reduction through image layering.
 - **Serverless Hosting:** Cloud Run's pay-per-use model is perfect for low-traffic websites, minimizing idle resource costs.
 - **Cost-Effective Database:** If needed, consider a free-tier MySQL database on a platform with free-tier MySQL, with careful scaling to prevent exceeding free limits.
+
+- **Live Site:**
+
+www.george-falkovich.com
