@@ -21,3 +21,4 @@ This project demonstrates a simple yet robust CI/CD pipeline for deploying a sta
 - **Live Site:**
 
 www.george-falkovich.com
+https://portfolio-cicd-4e4g74kwjq-uc.a.run.app/
